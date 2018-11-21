@@ -1,0 +1,6 @@
+# Ignore all npm modules.
+node_modules
+
+# Ignore any IDE files/directories.
+.idea
+*.iml

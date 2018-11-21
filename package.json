@@ -1,0 +1,35 @@
+{
+  "contributors": [
+    {
+      "name": "Aaron Smith",
+      "url": "http://www.aims.gov.au"
+    }
+  ],
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0"
+  },
+  "deprecated": false,
+  "description": "AIMS Knowledge Systems team's overrides to eslint-config-airbnb-base.",
+  "engines": {
+    "node": ">= 4"
+  },
+  "homepage": "https://github.com/aims-ks/eslint-config-aimsks-base",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "javascript",
+    "styleguide"
+  ],
+  "license": "CC-BY-4.0",
+  "main": "index.js",
+  "name": "eslint-config-aimsks-base",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aims-ks/eslint-config-aimsks-base.gitt"
+  },
+  "scripts": {
+  },
+  "version": "1.0.1"
+}
