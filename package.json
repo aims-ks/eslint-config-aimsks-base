@@ -27,7 +27,7 @@
   "name": "eslint-config-aimsks-base",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aims-ks/eslint-config-aimsks-base.gitt"
+    "url": "git+https://github.com/aims-ks/eslint-config-aimsks-base.git"
   },
   "scripts": {
   },
