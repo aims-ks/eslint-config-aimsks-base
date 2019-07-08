@@ -6,7 +6,7 @@
     }
   ],
   "dependencies": {
-    "eslint-config-airbnb-base": "^13.1.0"
+    "eslint-config-airbnb-base": "^13.2.0"
   },
   "deprecated": false,
   "description": "AIMS Knowledge Systems team's overrides to eslint-config-airbnb-base.",
@@ -31,5 +31,5 @@
   },
   "scripts": {
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
